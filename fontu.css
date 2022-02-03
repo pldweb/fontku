@@ -1,0 +1,26 @@
+/* Tester Font */
+
+
+@font-face {
+  font-family: "Gopher", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('https://github.com/pldweb/fontku/blob/main/GopherDisplay-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "Gopher", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('https://github.com/pldweb/fontku/blob/main/Gopher-Thin.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "Gopher", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('https://github.com/pldweb/fontku/blob/main/Gopher-Regular.ttf') format('truetype');
+}
