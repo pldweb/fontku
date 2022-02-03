@@ -2,8 +2,8 @@
 
  @font-face {
     font-family: 'Gopher';
-    src: url('gopherdisplay-medium-webfont.woff2') format('woff2'),
-         url('gopherdisplay-medium-webfont.woff') format('woff');
+    src: url('Gopher-medium.woff2') format('woff2'),
+         url('Gopher-medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
  }
